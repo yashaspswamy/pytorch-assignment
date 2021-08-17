@@ -1,0 +1,4 @@
+/home/mcw/Desktop/pytorch-assignment/build/CMakeFiles/edit_cache.dir
+/home/mcw/Desktop/pytorch-assignment/build/CMakeFiles/fmod.dir
+/home/mcw/Desktop/pytorch-assignment/build/CMakeFiles/rebuild_cache.dir
+/home/mcw/Desktop/pytorch-assignment/build/CMakeFiles/linspace.dir
